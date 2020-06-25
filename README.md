@@ -1,6 +1,6 @@
 # Friends-Pilot-Analysis
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/nishantc7/Friends-Pilot-Analysis/blob/master/Friends-data.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nishantc7/Friends-Pilot-Analysis/blob/master/Friends-data.ipynb)
 
 
 Performing text analysis and sentiment analysis on the pilot episode of Friends
